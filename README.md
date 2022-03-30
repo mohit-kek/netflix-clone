@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+[Live Demo Click Here 🚀🚀](https://netflix-clone-d9e65.web.app/)
+
+<img src="![image](https://user-images.githubusercontent.com/101042725/160804560-729f6778-be6b-4296-bf3c-0bb666f98e74.png)" />
+<img src="![image](https://user-images.githubusercontent.com/101042725/160805333-b2529508-19b1-42b9-a016-892e4b591655.png)" />
+<img src="![image](https://user-images.githubusercontent.com/101042725/160805583-eaa9e7e0-ce5f-4717-8d0b-626af2a77642.png)g" />
+
 ## Available Scripts
 
 In the project directory, you can run:
