@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-[Live Demo Click Here 🚀🚀](https://netflix-clone-d9e65.web.app/)
+[Live Demo Click Here 🚀🚀](mohit-netflix-clone.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/101042725/160804560-729f6778-be6b-4296-bf3c-0bb666f98e74.png)
 
